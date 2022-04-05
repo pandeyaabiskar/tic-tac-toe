@@ -1,4 +1,4 @@
-# Myapp
+# Tic Tac Toe
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.1. You can access the project [here](https://angular-projects-30f5c.web.app/).
 
