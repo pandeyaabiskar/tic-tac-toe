@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "angular-projects-30f5c": {
+      "hosting": {
+        "myapp": [
+          "angular-projects-30f5c"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "angular-projects-30f5c"
+  }
+}
